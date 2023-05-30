@@ -8,5 +8,3 @@
 * 14:00 - 15:00 - Kubernetes 101 Workshop Part 2 - Ravikanth Chaganthi
 * 15:00 - 16:00 - Build a real world chat bot using Azure QnA maker - Prashanth Purushotham
 * 16:00 - 16:30 - Tea and Networking
-
-EventLink --> https://www.meetup.com/bangaloreitproug/events/292950532/
